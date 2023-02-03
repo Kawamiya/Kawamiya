@@ -8,7 +8,7 @@ I am a graduate student at Columbia University currently working towards becomin
 ![](https://github-readme-stats.vercel.app/api?username=fantingsheng)
 
 ## Skills: 
-![Git](https://img.shields.io/badge?style=flat-square)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square)
 ![Java](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=java&logoColor=red)
 
 <!-- , Java, SpringBoot, SpringCloud, Mybatis, Redis, RabbitMQ, Sentinel, Nacos, Kubernetes, Zipkin, Mysql -->
