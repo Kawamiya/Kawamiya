@@ -7,8 +7,11 @@ I am a graduate student at Columbia University currently working towards becomin
 
 ![](https://github-readme-stats.vercel.app/api?username=fantingsheng)
 
-## Skills: ![Git, Java, SpringBoot, SpringCloud, Mybatis, Redis, RabbitMQ, Sentinel, Nacos, Kubernetes, Zipkin, Mysql](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+## Skills: 
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=java&logoColor=red)
 
+<!-- , Java, SpringBoot, SpringCloud, Mybatis, Redis, RabbitMQ, Sentinel, Nacos, Kubernetes, Zipkin, Mysql -->
 <!--
 **Kawamiya/Kawamiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
