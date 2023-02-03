@@ -1,5 +1,11 @@
 ### Hello!
 
+I'm Zijian Xu, 
+
+
+I am a graduate student at Columbia University currently working towards becoming a back-end development engineer.
+
+![](https://github-readme-stats.vercel.app/api?username=fantingsheng)
 <!--
 **Kawamiya/Kawamiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
