@@ -1,9 +1,6 @@
 ### Hello!
 
-I'm Zijian Xu, 
-
-
-I am a graduate student at Columbia University currently working towards becoming a back-end development engineer.
+I am ijian Xu, a graduate student at Columbia University, working towards becoming a back-end development engineer.
 
 ![](https://github-readme-stats.vercel.app/api?username=fantingsheng)
 
