@@ -9,6 +9,7 @@ I am a graduate student at Columbia University currently working towards becomin
 
 ## Skills: 
 ![Git](https://img.shields.io/badge/-Git-F05032?color=red)
+![Java](https://img.shields.io/badge/-Git-F05032?color=blue)
 <!-- ![Java](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=java&logoColor=red) -->
 
 <!-- , Java, SpringBoot, SpringCloud, Mybatis, Redis, RabbitMQ, Sentinel, Nacos, Kubernetes, Zipkin, Mysql -->
