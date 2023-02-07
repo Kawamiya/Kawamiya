@@ -4,8 +4,8 @@ I am Zijian Xu, a graduate student at Columbia University, working towards becom
 
 ![](https://github-readme-stats.vercel.app/api?username=fantingsheng)
 
+Skills: Java, SpringBoot/SpringCloud, Mybatis, Redis, Mybatis, RabbitMQ, Sentinel, Zipkin, Nacos, Kubernetes/Kubesphere, Mybatis, Vue, React, Nginx
 
-<!-- , Java, SpringBoot, SpringCloud, Mybatis, Redis, RabbitMQ, Sentinel, Nacos, Kubernetes, Zipkin, Mysql -->
 <!--
 **Kawamiya/Kawamiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
